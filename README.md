@@ -1,6 +1,6 @@
 # ୨୧ Her Codebook
 
-### ✦ Digital Handbook & Field Guide for Girls Who Code
+### Digital Handbook & Field Guide for Girls Who Code
 
 **Her Codebook** is a curated digital handbook designed to make learning technology feel less intimidating and more approachable.
 
@@ -8,19 +8,18 @@ A little corner of the internet for discovering coding concepts, developer tools
 
 ---
 
-## ✦ What You'll Find
+## What You'll Find
 
-* **⌘ Coding Basics** — HTML, CSS, JavaScript, Python & more
-* **♡ Web Development** — Front-end concepts, layouts, components & workflows
-* **✦ Developer Tools** — VS Code, Git, GitHub, browsers & useful tools
-* **📖 Quick Guides** — Short explanations of technical concepts
-* **☁ Resources** — Websites, documentation, learning platforms & references
-* **📝 Notes** — Helpful tips, shortcuts, terminology & things worth remembering
-* **🎀 Girl in Tech** — Encouragement, advice & beginner-friendly guidance
+* **Coding Basics** — HTML, CSS, JavaScript, Python & more
+* **Web Development** — Front-end concepts, layouts, components & workflows
+* **Developer Tools** — VS Code, Git, GitHub, browsers & useful tools
+* **Quick Guides** — Short explanations of technical concepts
+* **Resources** — Websites, documentation, learning platforms & references
+* **Notes** — Helpful tips, shortcuts, terminology & things worth remembering
 
 ---
 
-## ✦ Design
+## Design
 
 Her Codebook uses a **soft editorial / digital notebook aesthetic** with:
 
