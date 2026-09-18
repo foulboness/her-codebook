@@ -37,27 +37,26 @@ The goal is to feel more like opening a **personal field guide** than a traditio
 
 ## ✦ Features
 
-* 📚 Categorised coding guides
-* 🔎 Searchable handbook content
-* 🗂️ Topic-based navigation
-* 💡 Beginner-friendly explanations
-* 🔗 Curated external resources
-* 📌 Quick-reference sections
-* 📱 Responsive design
-* 🌙 Comfortable reading experience
+* Categorised coding guides
+* Searchable handbook content
+* Topic-based navigation
+* Beginner-friendly explanations
+* Curated external resources
+* Quick-reference sections
+* Responsive design
+* Comfortable reading experience
 
 ---
 
-## ✦ Tech Stack
+## Tech Stack
 
 * **HTML5**
 * **CSS3**
 * **JavaScript**
-* **Git & GitHub**
 
 ---
 
-## ✦ Project Structure
+## Project Structure
 
 ```text
 her-codebook/
@@ -72,7 +71,7 @@ her-codebook/
 
 ---
 
-## ✦ Purpose
+## Purpose
 
 Her Codebook was created as a small digital space for learning, collecting, and revisiting useful coding knowledge.
 
@@ -80,16 +79,9 @@ Her Codebook was created as a small digital space for learning, collecting, and 
 
 ---
 
-## ✦ Status
 
-**✦ In Development**
+## Credits
 
-New guides, references, and resources can be added as the handbook grows.
-
----
-
-## ✦ Credits
-
-**Designed & coded by Miksha**
+**Designed & coded by Foulboness**
 
 Made with ♡ for curious minds, creative developers, and girls learning to code.
